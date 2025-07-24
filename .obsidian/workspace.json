@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnetism/Ferromagnet.md",
+                "file": "Magnetism/Ferrimagnetism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ferromagnet"
+              "title": "Ferrimagnetism"
             }
           }
         ]
@@ -177,11 +177,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b62aaf579dfc1e2e",
+  "active": "39c6d0bb0a00c1ee",
   "lastOpenFiles": [
+    "Magnetism/Anti-ferromagnetism.md",
+    "Magnetism/Ferrimagnetism.md",
+    "Magnetism/Ferromagnetism.md",
+    "templates/definition.md",
+    "templates",
+    "Untitled.md",
     "Magnetism/Magnetic Dipole.md",
     "Magnetism/Magnetic Moment.md",
-    "Magnetism/Ferromagnet.md",
     "Magnetism",
     "Quantum Mechanics/Pauli Exclusion Principle.md",
     "Quantum Mechanics"
