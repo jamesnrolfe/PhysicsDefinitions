@@ -1,4 +1,8 @@
 {
   "cssTheme": "AnuPpuccin",
-  "textFontFamily": "CMU Typewriter Text"
+  "textFontFamily": "CMU Typewriter Text",
+  "showViewHeader": false,
+  "showRibbon": true,
+  "translucency": false,
+  "theme": "moonstone"
 }
