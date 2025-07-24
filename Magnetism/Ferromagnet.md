@@ -1,1 +1,1 @@
-A ferromagnet 
+A ferromagnet is a new type of magnet that this is a test.
