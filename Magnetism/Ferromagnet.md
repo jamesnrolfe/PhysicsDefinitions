@@ -1,1 +1,1 @@
-dsadawd is a new type of magnet
+A ferromagnet
