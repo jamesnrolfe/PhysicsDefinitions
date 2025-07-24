@@ -4,8 +4,9 @@ aliases:
   - ferromagnet
   - ferromagnets
 ---
-
 A **ferromagnet** is a material that can be magnetised to become a **permanent magnet**, with magnetic domains that align in the **same direction** when exposed to an external magnetic field. They exhibit **spontaneous magnetisation**.
+
+	A ferromagnet is a material that can be magnetised to become a permanent magnet, with magnetic domains that align in the same direction when exposed to an external magnetic field. They exhibit spontaneous magnetisation.
 
 Common examples of ferromagnetic materials include **Iron** and **Nickel**.
 
