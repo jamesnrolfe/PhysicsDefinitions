@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Operators.md",
+                "file": "Definitions/Quantum Mechanics/Angular Momentum/Landé G-Factor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operators"
+              "title": "Landé G-Factor"
             }
           }
         ],
@@ -191,17 +191,18 @@
   },
   "active": "eeed8e82ff13d04d",
   "lastOpenFiles": [
+    "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
+    "Definitions/Quantum Mechanics/Angular Momentum/Landé G-Factor.md",
+    "Mathematics/Operators.md",
     "Mathematics/Separation of Variables.md",
     "Mathematics/Coordinate Systems.md",
     "Mathematics/Laplacian.md",
-    "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
     "Proofs",
     "Definitions/Quantum Mechanics/Angular Momentum/Orbital Angular Momentum.md",
     "Definitions/Quantum Mechanics/The Schrödinger Equation.md",
     "Equations/Operators/Hamiltonian.md",
     "Equations/Operators",
     "Definitions/Quantum Mechanics/Angular Momentum/Raising and Lowering Operators.md",
-    "Mathematics/Operators.md",
     "´.md",
     "Equations/Time-Dependent Schrödinger Equation.md",
     "Definitions/Quantum Mechanics/Operators",

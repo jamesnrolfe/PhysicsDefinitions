@@ -32,3 +32,22 @@ Clearly, the spin eigenstate $\ket{\ell, m}$ behaves here just like the [[Orbita
 The values of $m$ still differ by unity and still take all the values between $-\ell$ and ${} +\ell$, but if $\ell$ is an integer $+\frac{1}{2}$ then so are the $m$. For example:
 - If $\ell= \frac{3}{2}$ then the possible values of $m$ are $- \frac{3}{2}, -\frac{1}{2}, \frac{1}{2}, \frac{3}{2}$.
 - If $\ell=\frac{1}{2}$ then $m$ can be $-\frac{1}{2}$ or $\frac{1}{2}$.
+Let's continue with the $\ell=\frac{1}{2}$ example. Hence, the state $\ket{l,m}$ take two values:
+$$
+\ket{\frac{1}{2}, \frac{1}{2}} \quad \text{or} \quad \ket{\frac{1}{2}, -\frac{1}{2}}
+$$
+which are the **two eigenstates** of $\hat{S}^z$. In this example, we can abbreviate
+$$
+\begin{align}
+\ket{\frac{1}{2}, \frac{1}{2}}  & \equiv \ket{\frac{1}{2}} \equiv \ket{+}   \\
+\ket{\frac{1}{2}, -\frac{1}{2}}  & \equiv \ket{-\frac{1}{2}} \equiv \ket{-} 
+\end{align}
+$$
+These two eigenstates form a complete set for a single spin-$\frac{1}{2}$. They may be written
+$$
+\psi=\alpha \ket{+} +\beta \ket{-} .
+$$
+The eigenstates form an **orthonormal basis** i.e.
+$$
+\langle{+}|{+}\rangle = \langle{-}|{-}\rangle = 1, \quad \langle{+}|{-}\rangle=0.
+$$
