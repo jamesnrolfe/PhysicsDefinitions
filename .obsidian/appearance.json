@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Mado Miniflow",
+  "cssTheme": "",
   "textFontFamily": "CMU Concrete,CMU Typewriter Text Variable Width",
   "showViewHeader": false,
   "showRibbon": true,
   "translucency": false,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "accentColor": "#3b545e"
 }
