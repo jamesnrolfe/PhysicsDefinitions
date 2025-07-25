@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Separation of Variables.md",
+                "file": "Mathematics/Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Separation of Variables"
+              "title": "Operators"
             }
           }
         ],
@@ -191,6 +191,7 @@
   },
   "active": "eeed8e82ff13d04d",
   "lastOpenFiles": [
+    "Mathematics/Separation of Variables.md",
     "Mathematics/Coordinate Systems.md",
     "Mathematics/Laplacian.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
@@ -200,7 +201,7 @@
     "Equations/Operators/Hamiltonian.md",
     "Equations/Operators",
     "Definitions/Quantum Mechanics/Angular Momentum/Raising and Lowering Operators.md",
-    "Definitions/Quantum Mechanics/Mathematical Tools/Operators.md",
+    "Mathematics/Operators.md",
     "´.md",
     "Equations/Time-Dependent Schrödinger Equation.md",
     "Definitions/Quantum Mechanics/Operators",
@@ -210,7 +211,6 @@
     "templates/equation.md",
     "Equations",
     "Untitled.md",
-    "Mathematics/Separation of Variables.md",
     "Definitions/Quantum Mechanics/Pauli Exclusion Principle.md",
     "Definitions/Quantum Mechanics/Mathematical Tools",
     "templates/mathematics.md",

@@ -1,5 +1,5 @@
 ---
-type: definition
+type: maths
 aliases:
   - operator
   - operators

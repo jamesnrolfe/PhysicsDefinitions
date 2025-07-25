@@ -2,5 +2,6 @@
   "showInlineTitle": true,
   "propertiesInDocument": "visible",
   "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
