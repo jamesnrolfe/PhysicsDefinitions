@@ -4,6 +4,7 @@ aliases:
   - spins
   - spin
 ---
+### Spin
 The spin of a particle is an **intrinsic** property of that particle - much like **mass** or **charge**. 
 It is often thought of as the particle "spinning" on its axis - but this is incorrect (electrons are thought to be point particles for example, and so have no axis to spin on). It is however related to angular momentum. It suggests that particles have some inherent angular momentum, even when *not physically rotating*.
 
@@ -17,9 +18,10 @@ Spin can take **integer** or **half-integer** values, depending on the type of p
 | Fundamental [[Bosons]]   | 1                                   | Photon, W/Z Bosons, Gluons   | Fundamental force carriers                                                          |
 | Composite [[Fermions]]   | Depends on constituents             | Protons, Neutrons            | Made of quarks with combined spin                                                   |
 | Composite [[Bosons]]     | Depends on constituents             | Helium-4 atoms               | Particles with **integer** total spin                                               |
+### Spin operators
 The **spin angular momentum** has most of the same properties as [[Orbital Angular Momentum|orbital angular momentum]], but also some *special* properties.
 
-We will write $\hat{S}$ for spin in place of $\hat{L}$ in [[Orbital Angular Momentum|orbital angular momentum]]. We can still use the eigenstates of $\hat{S}^z$ and $\vec{S}^2$ with the same quantum numbers $\ell$ and $m$, such that $$\begin{align} \hat{S}^2  \ket{\ell, m} &=m\hbar \ket{\ell, m} \\\vec{S}^2 \ket{\ell, m} &= \ell(\ell+1)\hbar^2\ket{\ell, m} 
+We will write $\hat{S}$ for spin in place of $\hat{L}$ in [[Orbital Angular Momentum|orbital angular momentum]]. We can still use the eigenstates of $\hat{S}^z$ and $\vec{S}^2$ with the same quantum numbers $\ell$ and $m$, such that $$\begin{align} \hat{S}^2  \ket{\ell, m} &=m\hbar \ket{\ell, m} \\\hat{S}^2 \ket{\ell, m} &= \ell(\ell+1)\hbar^2\ket{\ell, m} 
  \end{align}$$ as before.
 
 Clearly, the spin eigenstate $\ket{\ell, m}$ behaves here just like the [[Orbital Angular Momentum|orbital]] eigenstate $Y_{\ell, m}$, but there are *two fundamental differences*:
