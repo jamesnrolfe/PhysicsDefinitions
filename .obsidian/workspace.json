@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magnetism/Ferromagnetism.md",
+                "file": "Magnetism/Frustration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ferromagnetism"
+              "title": "Frustration"
             }
           }
         ],
@@ -191,6 +191,7 @@
   "active": "39c6d0bb0a00c1ee",
   "lastOpenFiles": [
     "Magnetism/Ferromagnetism.md",
+    "Magnetism/Frustration.md",
     "Magnetism/Ferrimagnetism.md",
     "Magnetism/Anti-ferromagnetism.md",
     "Magnetism/Magnetic Dipole.md",
