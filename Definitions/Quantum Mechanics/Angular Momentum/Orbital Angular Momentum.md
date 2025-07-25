@@ -5,6 +5,9 @@ aliases:
   - Angular momentum operators
   - orbital angular momentum
 ---
+### Orbital angular momentum
+The **orbital angular momentum** can be thought of as the *actual* angular momentum that a particle has, for example that that an **electron** would have when orbiting a nucleus.
+### Orbital angular momentum operators
 Classically, we think of angular momentum $\vec{L}$ as being given by 
 $$
 \vec{L}=\vec{r} \times \vec{p}

@@ -3,6 +3,8 @@ type: definition
 aliases:
   - spins
   - spin
+  - spin angular momentum
+  - intrinsic angular momentum
 ---
 ### Spin
 The spin of a particle is an **intrinsic** property of that particle - much like **mass** or **charge**. 
