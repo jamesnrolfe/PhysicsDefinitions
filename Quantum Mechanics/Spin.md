@@ -9,6 +9,8 @@ aliases:
 The spin of a particle is an **intrinsic** property of that particle - much like **mass** or **charge**. 
 It is often thought of as the particle "spinning" on its axis - but this is incorrect (electrons are thought to be point particles for example, and so have no axis to spin on). It is however related to angular momentum. It suggests that particles have some inherent angular momentum, even when *not physically rotating*.
 
+Spin can take **integer** or **half-integer** values, depending on the type of particle.
+
 | Particle Group       | Spin                                | Examples                     | Description                                                               |
 | :------------------- | :---------------------------------- | :--------------------------- | :------------------------------------------------------------------------ |
 | Fermions             | Half-integer spin (\(½, ³/₂, ...\)) | Electrons, Quarks, Neutrinos | Matter particles that obey Pauli exclusion principle                      |
