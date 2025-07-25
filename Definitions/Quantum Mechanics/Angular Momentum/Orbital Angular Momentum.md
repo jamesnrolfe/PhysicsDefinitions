@@ -17,6 +17,8 @@ where we now use the [[Operators|operator]] form instead.
 
 We define angular momentum about each **axis** as $\hat{L}^x$, $\hat{L}^y$ and $\hat{L}^z$. This means that the angular momentum along the $z$-axis would amount to spinning in the $x$-$y$ plane. In other words, *the direction of the angular momentum operator is perpendicular to the plane of rotation*. Generally, we use $\hat{L}^z$ for simplicity.
 
+These operators [[Operators#Commutation|commute]] via $[\hat{L}^x,\hat{L}^y] = i\hbar\hat{L}^z$ (cyclic). 
+
 There is another operator that we use a lot, defined as $\vec{L}^2=(\hat{L}^x)^2 + (\hat{L}^y)^2 +(\hat{L}^z)^2$. This can be thought of as the **square magnitude** of angular momentum. 
 
 It is true that $[\hat{L}^z, \vec{L}^2]=0$, which by [[Operators#Commutation|commutator rules]] means that states exist that are **eigenstates** of *both of these* operators. In fact, these states are the angular component of the eigenstates of the [[The Schrödinger Equation#Angular part|Schrödinger equation]] $Y_{\ell, m}(\theta, \phi)$. The corresponding **eigenvalues** are 
