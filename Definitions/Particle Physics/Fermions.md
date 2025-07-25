@@ -4,7 +4,7 @@ aliases:
   - fermions
   - fermion
 ---
-**Fermions** are a class of fundamental particles in quantum mechanics characterised by **half-integer** [[Spin|spin]] values. 
+**Fermions** are a class of fundamental particles in quantum mechanics characterised by **half-integer** [[Spin Angular Momentum|spin]] values. 
 
 They follow the [[Pauli Exclusion Principle|Pauli exclusion principle]], which states that no two identical fermions can occupy the same quantum state simultaneously. They follow **Fermi-Dirac statistics**.
 

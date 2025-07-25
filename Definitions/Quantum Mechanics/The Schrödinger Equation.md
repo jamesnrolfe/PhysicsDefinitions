@@ -24,13 +24,52 @@ $$
 \hat{H} \psi(r) = E \psi(r).
 $$
 ### General Solution
-If take the $\Psi(r, t)$ term in the [[Time-Dependent Schrödinger Equation|TDSE]] (the wave function), we can try and separate it out into the **spatial** and **time-dependent** parts
+If take the $\Psi(r, t)$ term in the [[Time-Dependent Schrödinger Equation|TDSE]] (the wave function), we can try and separate it out into the **spatial** and **time-dependent** parts. Let's first assume a separable solution as follows:
 $$
-\Psi(r, t) = \psi(r)\phi(t)
+\Psi(r, t) = \psi(r)\phi(t).
+$$
+Then, let's substitute this into the [[Time-Dependent Schrödinger Equation|TDSE]] 
+$$
+i\hbar \frac{\partial}{\partial t} (\psi(r)\phi(t)) = \hat{H}(\psi(r)\phi(t)).
+$$
+Since $\psi(r)$ does not depend on time and $\phi(t)$ does not depend on position, the partial derivatives simplify easily to
+$$
+i\hbar \psi(r) \frac{d}{dt}\phi(t) = \phi(t) \hat{H} \psi(r)
+$$
+(remember the **Hamiltonian** doesn't depend on time, only position). Then we will divide through by $\psi(r)\phi(t)$:
+$$
+\frac{i\hbar}{\phi(t)} \frac{d}{dt} \phi(t) = \frac{1}{\psi(r)} \hat{H} \psi(r).
+$$
+Now, for these two identities to be equal for all $r$ and $t$, both sides must be equal to a constant. This constant represents the total energy of the system, which we will call $E$.
+#### Time dependent part
+For the **time dependent part**, we can write the separated equation as
+$$
+i\hbar \frac{d\phi(t)}{dt} = E.
+$$
+This is a **first-order linear ordinary differential equation**. The solution to this is 
+$$
+\phi(t) = Ae^{-iEt / \hbar}
+$$
+The constant $A$ can be absorbed into the spatial part $\psi(r)$ by redefining $\psi'(r)=A\psi(r)$. We then write the time-dependent part as simply 
+$$
+\phi(t) = e^{-iEt / \hbar}.
 $$
 #### Time independent part
-
-
+For the **spatial part**, we can write the separated equation as
+$$
+\frac{1}{\psi(r)} \hat{H} \psi(r) = E
+$$
+Multiplying by $\psi(r)$, we obtain the [[Time-Independent Schrödinger Equation|time-independent Schrödinger equation]]:
+$$
+\hat{H} \psi(r) = E \psi(r)
+$$
+This equation is a fundamental **eigenvalue equation**. $\psi(r)$ are the **eigenstates** of the **Hamiltonian**, representing the spatial part of the wave function for a state with a *definite energy*. We often denote them $\psi_{n}(r)$ to indicate that there can be many such solutions. $E$ are the **eigenvalues** of the **Hamiltonian**, and represent the **quantised** possible values of the total energy that the system can have. These are also typically denoted $E_{n}$.
+#### Stationary states
+Combining the solutions for $\psi(r)$ and $\phi(t)$, we get the **stationary state solutions** to the [[Time-Dependent Schrödinger Equation|TDSE]]:
+$$
+\Psi_{n}(r, t) = \psi_{n}(r)e^{-iE_{n}t / \hbar}
+$$
+These are called **stationary** because physical **observables** calculated from them (like **probability density** $|\Psi_{n}|^2$) do not change with time. This is because the time dependent factor $e^{-iE_{n}t / \hbar}$ cancels out when calculating probabilities or other observables (usually due to a modulus). 
 ### Spherical Symmetry
 When there is **spherical symmetry**, it is often convenient to express the Schrödinger equation in terms of [[Coordinate Systems|spherical coordinates]] $(r, \theta, \phi)$ instead of [[Coordinate Systems|Cartesian coordinates]] $(x, y, z)$. The [[Laplacian]] in [[Coordinate Systems#Spherical Coordinates|spherical coordinates]] is given by
 $$
@@ -70,7 +109,7 @@ At this point, the LHS depends on *only* $r$, and the RHS depends *only* on the 
 #### Angular part
 For the **angular part**, we can rearrange it as follows:
 $$ \frac{1}{\sin \theta} \frac{\partial}{\partial \theta} \left( \sin \theta \frac{\partial Y(\theta, \phi)}{\partial \theta} \right) + \frac{1}{\sin^2 \theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2} = \frac{2m\lambda}{\hbar^2} Y(\theta, \phi).$$
-It turns out for physically meaningful solutions, the constant $2m\lambda / \hbar^2$ must be equal to $-\ell(\ell+1)$, where $\ell$ is the **orbital angular momentum quantum number**. This is because the differential operator on the LHS is related to the square of the [[Angular Momentum Operators|angular momentum operator]] $\hat{L}^2$. So, we get
+It turns out for physically meaningful solutions, the constant $2m\lambda / \hbar^2$ must be equal to $-\ell(\ell+1)$, where $\ell$ is the **orbital angular momentum quantum number**. This is because the differential operator on the LHS is related to the square of the [[Orbital Angular Momentum|angular momentum operator]] $\hat{L}^2$. So, we get
 $$
 \left[\frac{1}{\sin \theta} \frac{\partial}{\partial \theta} \left( \sin \theta \frac{\partial }{\partial \theta} \right) + \frac{1}{\sin^2 \theta} \frac{\partial^2}{\partial \phi^2}\right]Y_{\ell, m}(\theta, \phi) = -\ell(\ell+1)Y_{\ell, m}(\theta, \phi).
 $$
@@ -160,4 +199,4 @@ and rearrange to the standard form for this equation
 $$
 -\frac{\hbar^2}{2m} \frac{1}{r^2} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \left[ V(r)+\frac{\hbar^2\ell(\ell+1)}{2mr^2} \right]R(r)= ER(r)
 $$
-This is the **Radial Schrödinger equation**. The term $\hbar^2\ell(\ell+1) / 2mr^2$ acts as an effective potential term, known as the **centrifugal barrier**, which arises from the [[Angular Momentum Operators|angular momentum]] of the particle.  
+This is the **Radial Schrödinger equation**. The term $\hbar^2\ell(\ell+1) / 2mr^2$ acts as an effective potential term, known as the **centrifugal barrier**, which arises from the [[Orbital Angular Momentum|angular momentum]] of the particle.  
