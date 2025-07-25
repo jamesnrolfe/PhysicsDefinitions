@@ -1,5 +1,11 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light"
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "mado-miniflow@@theme-color": "theme-grayscale",
+  "mado-miniflow@@toggle-wave-background": true,
+  "mado-miniflow@@toggle-tab-design": true,
+  "mado-miniflow@@toggle-note-radius": true,
+  "mado-miniflow@@toggle-tab-height": true,
+  "mado-miniflow@@toggle-tab-height-stacked": false
 }

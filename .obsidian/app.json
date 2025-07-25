@@ -1,4 +1,5 @@
 {
   "showInlineTitle": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "readableLineLength": false
 }

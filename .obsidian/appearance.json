@@ -1,6 +1,6 @@
 {
-  "cssTheme": "AnuPpuccin",
-  "textFontFamily": "CMU Typewriter Text",
+  "cssTheme": "Mado Miniflow",
+  "textFontFamily": "CMU Concrete,CMU Typewriter Text Variable Width",
   "showViewHeader": false,
   "showRibbon": true,
   "translucency": false,
