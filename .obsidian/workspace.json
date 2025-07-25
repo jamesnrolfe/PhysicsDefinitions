@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Particle Physics/Bosons.md",
+                "file": "Quantum Mechanics/Spin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bosons"
+              "title": "Spin"
             }
           },
           {
@@ -37,16 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Particle Physics/Fermions.md",
+                "file": "Particle Physics/Bosons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fermions"
+              "title": "Bosons"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,11 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39c6d0bb0a00c1ee",
+  "active": "71b95dbf3558f7ff",
   "lastOpenFiles": [
     "Particle Physics/Fermions.md",
-    "Particle Physics/Bosons.md",
     "Quantum Mechanics/Spin.md",
+    "Particle Physics/Bosons.md",
     "Particle Physics",
     "Magnetism/Frustration.md",
     "Magnetism/Ferromagnetism.md",

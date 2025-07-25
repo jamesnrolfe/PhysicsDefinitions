@@ -4,7 +4,7 @@ aliases:
   - boson
   - bosons
 ---
-**Bosons** are subatomic particles that follow **Bose-Einstein statistics** and have **integer** spin values. They are one of the *two* fundamental classes of particles in quantum mechanics, with the other being [[Fermions|fermions]]. 
+**Bosons** are subatomic particles that follow **Bose-Einstein statistics** and have **integer** spin values. They are one of the *two* fundamental classes of particles in quantum mechanics, with the other being [[Fermions|fermions]]. Bosons can be **force-carrying**.
 
 They can occupy the same quantum state *simultaneously*.
 

@@ -11,11 +11,11 @@ It is often thought of as the particle "spinning" on its axis - but this is inco
 
 Spin can take **integer** or **half-integer** values, depending on the type of particle.
 
-| Particle Group       | Spin                                | Examples                     | Description                                                               |
-| :------------------- | :---------------------------------- | :--------------------------- | :------------------------------------------------------------------------ |
-| Fermions             | Half-integer spin (\(½, ³/₂, ...\)) | Electrons, Quarks, Neutrinos | Matter particles that obey Pauli exclusion principle                      |
-| Bosons               | Integer spin (\(0, 1, 2, ...\))     | Photons, Gluons, Higgs Boson | Force-carrying particles and particles that can occupy same quantum state |
-| Fundamental Fermions | ½                                   | Quarks, Leptons              | Basic building blocks of matter                                           |
-| Fundamental Bosons   | 1                                   | Photon, W/Z Bosons, Gluons   | Fundamental force carriers                                                |
-| Composite Fermions   | Depends on constituents             | Protons, Neutrons            | Made of quarks with combined spin                                         |
-| Composite Bosons     | Depends on constituents             | Helium-4 atoms               | Particles with integer total spin                                         |
+| Particle Group           | Spin                                | Examples                     | Description                                                                         |
+| :----------------------- | :---------------------------------- | :--------------------------- | :---------------------------------------------------------------------------------- |
+| [[Fermions]]             | Half-integer spin (\(½, ³/₂, ...\)) | Electrons, Quarks, Neutrinos | Matter particles that obey [[Pauli Exclusion Principle\|Pauli exclusion principle]] |
+| [[Bosons]]               | Integer spin (\(0, 1, 2, ...\))     | Photons, Gluons, Higgs Boson | Force-carrying particles and particles that can occupy same quantum state           |
+| Fundamental [[Fermions]] | ½                                   | Quarks, Leptons              | Basic building blocks of matter                                                     |
+| Fundamental [[Bosons]]   | 1                                   | Photon, W/Z Bosons, Gluons   | Fundamental force carriers                                                          |
+| Composite [[Fermions]]   | Depends on constituents             | Protons, Neutrons            | Made of quarks with combined spin                                                   |
+| Composite [[Bosons]]     | Depends on constituents             | Helium-4 atoms               | Particles with **integer** total spin                                               |
