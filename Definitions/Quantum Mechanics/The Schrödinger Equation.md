@@ -70,7 +70,7 @@ At this point, the LHS depends on *only* $r$, and the RHS depends *only* on the 
 #### Angular part
 For the **angular part**, we can rearrange it as follows:
 $$ \frac{1}{\sin \theta} \frac{\partial}{\partial \theta} \left( \sin \theta \frac{\partial Y(\theta, \phi)}{\partial \theta} \right) + \frac{1}{\sin^2 \theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2} = \frac{2m\lambda}{\hbar^2} Y(\theta, \phi).$$
-It turns out for physically meaningful solutions, the constant $2m\lambda / \hbar^2$ must be equal to $-\ell(\ell+1)$, where $\ell$ is the **orbital angular momentum quantum number**. This is because the differential operator on the LHS is related to the square of the [[Angular Momentum Operators|angular momentum operator]] $\hat{L}^2$. So, we get
+It turns out for physically meaningful solutions, the constant $2m\lambda / \hbar^2$ must be equal to $-\ell(\ell+1)$, where $\ell$ is the **orbital angular momentum quantum number**. This is because the differential operator on the LHS is related to the square of the [[Orbital Angular Momentum|angular momentum operator]] $\hat{L}^2$. So, we get
 $$
 \left[\frac{1}{\sin \theta} \frac{\partial}{\partial \theta} \left( \sin \theta \frac{\partial }{\partial \theta} \right) + \frac{1}{\sin^2 \theta} \frac{\partial^2}{\partial \phi^2}\right]Y_{\ell, m}(\theta, \phi) = -\ell(\ell+1)Y_{\ell, m}(\theta, \phi).
 $$
@@ -160,4 +160,4 @@ and rearrange to the standard form for this equation
 $$
 -\frac{\hbar^2}{2m} \frac{1}{r^2} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \left[ V(r)+\frac{\hbar^2\ell(\ell+1)}{2mr^2} \right]R(r)= ER(r)
 $$
-This is the **Radial Schrödinger equation**. The term $\hbar^2\ell(\ell+1) / 2mr^2$ acts as an effective potential term, known as the **centrifugal barrier**, which arises from the [[Angular Momentum Operators|angular momentum]] of the particle.  
+This is the **Radial Schrödinger equation**. The term $\hbar^2\ell(\ell+1) / 2mr^2$ acts as an effective potential term, known as the **centrifugal barrier**, which arises from the [[Orbital Angular Momentum|angular momentum]] of the particle.  

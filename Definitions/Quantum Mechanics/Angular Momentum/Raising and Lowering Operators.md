@@ -47,3 +47,15 @@ We can also show that
 $$
 [\hat{L}^-, \hat{L}^+] = 2\hbar \hat{L}^z
 $$
+We also have similar raising and lowering operators for [[Orbital Angular Momentum|spin angular momentum]], $\hat{S}^+$ and $\hat{S}^-$ corresponding to $\hat{L}^+$ and $\hat{L}^-$ respectively, with the same properties as before. 
+$$
+\hat{S}^+ Y_{\ell, m} =0 \quad \text{if} \quad m=\ell
+$$
+and for $m<\ell$, 
+$$
+\begin{align}
+\hat{S}^z(\hat{S}^+\ket{\ell, m} )&=(m+1)\hbar(\hat{S}^+\ket{\ell, m} ), \\
+\vec{S}^2(\hat{S}^+ \ket{\ell, m} ) &= \ell(\ell+1)\hbar^2(\hat{S}^+\ket{\ell, m} ).
+\end{align}
+$$
+Again, there are similar results for $\hat{S}^-\ket{\ell, m}$.

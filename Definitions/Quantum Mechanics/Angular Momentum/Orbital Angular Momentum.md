@@ -3,6 +3,7 @@ type: definition
 aliases:
   - angular momentum operators
   - Angular momentum operators
+  - orbital angular momentum
 ---
 Classically, we think of angular momentum $\vec{L}$ as being given by 
 $$
@@ -27,3 +28,9 @@ $$
 \vec{L}^2 Y_{\ell, m} = \ell(\ell+1) \hbar^2 Y_{\ell, m}.
 $$
 In fact, this is exactly how $m$ and $\ell$ are *defined* - they relate to the **eigenvalues** of the angular momentum operators.
+The values of $m$ and $l$ are such that 
+$$
+-l \leq m \leq l.
+$$
+For example, if $l=1$, $m$ can take the values $-1$, $0$ or $1$.
+### Spin/Intrinsic angular momentum

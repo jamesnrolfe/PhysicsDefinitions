@@ -1,5 +1,6 @@
 {
   "showInlineTitle": true,
   "propertiesInDocument": "visible",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Quantum Mechanics/Angular Momentum/Angular Momentum Operators.md",
+                "file": "Definitions/Quantum Mechanics/Angular Momentum/Orbital Angular Momentum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angular Momentum Operators"
+              "title": "Orbital Angular Momentum"
             }
           },
           {
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Quantum Mechanics/Angular Momentum/Raising and Lowering Operators.md",
+                "file": "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raising and Lowering Operators"
+              "title": "Spin Angular Momentum"
             }
           },
           {
@@ -117,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 344.5
   },
   "right": {
     "id": "766bffa4b738d891",
@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295
+    "width": 295,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +219,8 @@
   },
   "active": "dcc7ae56994a42b4",
   "lastOpenFiles": [
-    "Definitions/Quantum Mechanics/Angular Momentum/Angular Momentum Operators.md",
+    "Definitions/Quantum Mechanics/Angular Momentum/Orbital Angular Momentum.md",
+    "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Raising and Lowering Operators.md",
     "Definitions/Quantum Mechanics/Mathematical Tools/Operators.md",
     "Definitions/Quantum Mechanics/The Schrödinger Equation.md",
@@ -235,7 +237,6 @@
     "Untitled.md",
     "Mathematics/Separation of Variables.md",
     "Definitions/Quantum Mechanics/Pauli Exclusion Principle.md",
-    "Definitions/Quantum Mechanics/Angular Momentum/Spin.md",
     "Definitions/Quantum Mechanics/Mathematical Tools",
     "templates/mathematics.md",
     "Definitions/Particle Physics/Bosons.md",
