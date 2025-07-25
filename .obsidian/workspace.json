@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
+                "file": "Mathematics/Separation of Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spin Angular Momentum"
+              "title": "Separation of Variables"
             }
           }
         ],
@@ -191,15 +191,16 @@
   },
   "active": "eeed8e82ff13d04d",
   "lastOpenFiles": [
-    "Definitions/Quantum Mechanics/Angular Momentum/Orbital Angular Momentum.md",
+    "Mathematics/Coordinate Systems.md",
+    "Mathematics/Laplacian.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
+    "Proofs",
+    "Definitions/Quantum Mechanics/Angular Momentum/Orbital Angular Momentum.md",
     "Definitions/Quantum Mechanics/The Schrödinger Equation.md",
     "Equations/Operators/Hamiltonian.md",
     "Equations/Operators",
     "Definitions/Quantum Mechanics/Angular Momentum/Raising and Lowering Operators.md",
     "Definitions/Quantum Mechanics/Mathematical Tools/Operators.md",
-    "Mathematics/Coordinate Systems.md",
-    "Mathematics/Laplacian.md",
     "´.md",
     "Equations/Time-Dependent Schrödinger Equation.md",
     "Definitions/Quantum Mechanics/Operators",
@@ -219,13 +220,11 @@
     "Mathematics",
     "Definitions",
     "Definitions/Particle Physics/Fermions.md",
-    "Definitions/Particle Physics",
     "Definitions/Magnetism/Frustration.md",
     "Definitions/Magnetism/Ferromagnetism.md",
     "Definitions/Magnetism/Ferrimagnetism.md",
     "Definitions/Magnetism/Anti-ferromagnetism.md",
     "Definitions/Magnetism/Magnetic Dipole.md",
-    "templates/definition.md",
-    "Definitions/Magnetism/Magnetic Moment.md"
+    "templates/definition.md"
   ]
 }
