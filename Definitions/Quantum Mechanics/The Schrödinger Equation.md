@@ -84,21 +84,21 @@ where $R(r)$ is the **radial part** and $Y(\theta, \phi)$ is the **angular part*
 Then, if we plug this into the first term in the [[Time-Independent Schrödinger Equation|TISE]]:
 $$
 \begin{align}
--\frac{\hbar^2}{2m} &\left(\frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial}{\partial r} \right) + \frac{1}{r^2 \sin \theta} \frac{\partial}{\partial \theta} \left( \sin \frac{\theta \partial}{\partial \theta} \right) + \frac{1}{r^2 \sin^2 \theta} \frac{\partial^2}{\partial \phi^2}\right)R(r)Y(\theta, \phi)   \\ 
-&=-\frac{\hbar^2}{2m}\left( \frac{Y(\theta,\phi)}{r^2} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{R(r)}{r^2\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{R(r)}{r^2 \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right)
+-\frac{\hbar^2}{2m} &\left[\frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial}{\partial r} \right) + \frac{1}{r^2 \sin \theta} \frac{\partial}{\partial \theta} \left( \sin \frac{\theta \partial}{\partial \theta} \right) + \frac{1}{r^2 \sin^2 \theta} \frac{\partial^2}{\partial \phi^2}\right]R(r)Y(\theta, \phi)   \\ 
+&=-\frac{\hbar^2}{2m}\left[ \frac{Y(\theta,\phi)}{r^2} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{R(r)}{r^2\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{R(r)}{r^2 \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right]
 \end{align}
 $$
 where we have separated out the components into the derivatives they depend on, and taken the other one out. For example in the first term, $Y(\theta, \phi)$ does not depend on the derivative w.r.t. $r$ since it does not depend on $r$. The next step is divide through by $R(r)Y(\theta, \phi)$, and we get
 $$
--\frac{\hbar^2}{2m}\left( \frac{1}{R(r)r^2} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{1}{Y(\theta, \phi)r^2\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{1}{Y(\theta, \phi)r^2 \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right).
+-\frac{\hbar^2}{2m}\left[ \frac{1}{R(r)r^2} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{1}{Y(\theta, \phi)r^2\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{1}{Y(\theta, \phi)r^2 \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right].
 $$
 The next step is to multiple by $r^2$, and we get
 $$
--\frac{\hbar^2}{2m}\left( \frac{1}{R(r)} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{1}{Y(\theta, \phi)\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{1}{Y(\theta, \phi) \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right).
+-\frac{\hbar^2}{2m}\left[ \frac{1}{R(r)} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{1}{Y(\theta, \phi)\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{1}{Y(\theta, \phi) \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right].
 $$
 Now, we can clearly see that we have *separated out the variables* - the first term *only* depends on $r$, and the second two terms *only* depend on $\theta, \phi$. We have created **radial** and **angular** parts! Let's plug this back into the full [[Time-Independent Schrödinger Equation|TISE]]:
 $$
--\frac{\hbar^2}{2m}\left( \frac{1}{R(r)} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{1}{Y(\theta, \phi)\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{1}{Y(\theta, \phi) \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right) +r^2V(r) = E r^2
+-\frac{\hbar^2}{2m}\left[ \frac{1}{R(r)} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{1}{Y(\theta, \phi)\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{1}{Y(\theta, \phi) \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right] +r^2V(r) = E r^2
 $$
 where we note that multiplied by $\psi(r) / r^2$ to account for the fact that we divided by $\psi(r)=R(r)Y(\theta, \phi)$ and multiplied by $r^2$ in the first term above. Let's move all the radial components to one side and all the angular components to the other.
 $$
