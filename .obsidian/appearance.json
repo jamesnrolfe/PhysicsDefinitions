@@ -4,6 +4,6 @@
   "showViewHeader": false,
   "showRibbon": true,
   "translucency": false,
-  "theme": "moonstone",
+  "theme": "system",
   "accentColor": "#3b545e"
 }

@@ -73,7 +73,7 @@ These are called **stationary** because physical **observables** calculated from
 ### Spherical Symmetry
 When there is **spherical symmetry**, it is often convenient to express the Schrödinger equation in terms of [[Coordinate Systems|spherical coordinates]] $(r, \theta, \phi)$ instead of [[Coordinate Systems|Cartesian coordinates]] $(x, y, z)$. The [[Laplacian]] in [[Coordinate Systems#Spherical Coordinates|spherical coordinates]] is given by
 $$
-\nabla^2 = \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial}{\partial r} \right) + \frac{1}{r^2 \sin \theta} \frac{\partial}{\partial \theta} \left( \sin \frac{\theta \partial}{\partial \theta} \right) + \frac{1}{r^2 \sin^2 \theta} \frac{\partial^2}{\partial \phi^2}.
+\nabla^2 = \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial}{\partial r} \right) + \frac{1}{r^2 \sin \theta} \frac{\partial}{\partial \theta} \left( \sin \theta\frac{\partial}{\partial \theta} \right) + \frac{1}{r^2 \sin^2 \theta} \frac{\partial^2}{\partial \phi^2}.
 $$
 If we substitute this into the [[Time-Independent Schrödinger Equation|time-independent Schrödinger equation]] and assuming a potential $V(r)$, we can assume that we can again apply separation of variables to the wave function 
 $$
