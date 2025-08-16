@@ -3,6 +3,7 @@ type: definition
 aliases:
   - ferromagnet
   - ferromagnets
+  - ferromagnetism
 ---
 A **ferromagnet** is a material that can be magnetised to become a **permanent magnet**, with [[Magnetic Moment|magnetic moments]] that align in the **same direction** when exposed to an external magnetic field. They exhibit **spontaneous magnetisation**.
 

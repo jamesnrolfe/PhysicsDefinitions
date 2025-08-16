@@ -38,4 +38,3 @@ $$
 -l \leq m \leq l.
 $$
 For example, if $l=1$, $m$ can take the values $-1$, $0$ or $1$.
-### Spin/Intrinsic angular momentum

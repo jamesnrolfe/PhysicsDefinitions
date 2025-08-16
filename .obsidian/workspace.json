@@ -8,27 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdb86187b275fee0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "eeed8e82ff13d04d",
+            "id": "ebd20ad6f8d7690e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Quantum Mechanics/Angular Momentum/Landé G-Factor.md",
+                "file": "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Landé G-Factor"
+              "title": "Spin Angular Momentum"
+            }
+          },
+          {
+            "id": "74f3fc5de32bfbfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Quantum Mechanics/Angular Momentum/Coupled Spins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coupled Spins"
             }
           }
         ],
@@ -89,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 200
   },
   "right": {
     "id": "766bffa4b738d891",
@@ -175,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295,
-    "collapsed": true
+    "width": 295
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,20 +192,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeed8e82ff13d04d",
+  "active": "aca49374f9e20891",
   "lastOpenFiles": [
     "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
+    "Definitions/Quantum Mechanics/Angular Momentum/Coupled Spins.md",
+    "Untitled.md",
+    "Mathematics/commute.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Landé G-Factor.md",
+    "Definitions/Quantum Mechanics/Angular Momentum/Raising and Lowering Operators.md",
+    "Definitions/Quantum Mechanics/Angular Momentum/Orbital Angular Momentum.md",
+    "Definitions/Terminlogogy/Isotropic.md",
+    "Definitions/Terminlogogy",
+    "Definitions/Magnetism/Ferromagnetism.md",
     "Mathematics/Operators.md",
     "Mathematics/Separation of Variables.md",
     "Mathematics/Coordinate Systems.md",
     "Mathematics/Laplacian.md",
     "Proofs",
-    "Definitions/Quantum Mechanics/Angular Momentum/Orbital Angular Momentum.md",
     "Definitions/Quantum Mechanics/The Schrödinger Equation.md",
     "Equations/Operators/Hamiltonian.md",
     "Equations/Operators",
-    "Definitions/Quantum Mechanics/Angular Momentum/Raising and Lowering Operators.md",
     "´.md",
     "Equations/Time-Dependent Schrödinger Equation.md",
     "Definitions/Quantum Mechanics/Operators",
@@ -211,7 +220,6 @@
     "Equations/Associated Legendre Differential Equation.md",
     "templates/equation.md",
     "Equations",
-    "Untitled.md",
     "Definitions/Quantum Mechanics/Pauli Exclusion Principle.md",
     "Definitions/Quantum Mechanics/Mathematical Tools",
     "templates/mathematics.md",
@@ -219,13 +227,8 @@
     "Definitions/Quantum Mechanics/Angular Momentum",
     "Mathematics/Quantum Mechanics",
     "Mathematics",
-    "Definitions",
     "Definitions/Particle Physics/Fermions.md",
     "Definitions/Magnetism/Frustration.md",
-    "Definitions/Magnetism/Ferromagnetism.md",
-    "Definitions/Magnetism/Ferrimagnetism.md",
-    "Definitions/Magnetism/Anti-ferromagnetism.md",
-    "Definitions/Magnetism/Magnetic Dipole.md",
-    "templates/definition.md"
+    "Definitions/Magnetism/Ferrimagnetism.md"
   ]
 }
