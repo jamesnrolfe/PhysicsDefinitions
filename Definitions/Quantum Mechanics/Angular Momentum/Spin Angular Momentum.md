@@ -119,4 +119,4 @@ $$
 >$$\vec{S}_{1} \cdot \vec{S}_{2} = \hat{S}_{1}^x\hat{S}_{2}^x + \hat{S}_{1}^y \hat{S}_{2}^y + \hat{S}_{1}^z \hat{S}_{2}^z = \hat{S}_{1}^z\hat{S}_{2}^z + \frac{1}{2}\hat{S}^+_{1}\hat{S}^-_{2}+\frac{1}{2}\hat{S}_{1}^-\hat{S}_{2}^+$$
 
 ^39ec1f
-
+### Commutation Relations

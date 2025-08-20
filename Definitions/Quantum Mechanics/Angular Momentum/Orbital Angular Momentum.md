@@ -37,4 +37,4 @@ The values of $m$ and $l$ are such that
 $$
 -l \leq m \leq l.
 $$
-For example, if $l=1$, $m$ can take the values $-1$, $0$ or $1$.
+For example, if $l=1$, $m$ can take the values $-1$, $0$ or $1$. 
