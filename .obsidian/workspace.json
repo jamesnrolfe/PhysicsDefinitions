@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
+                "file": "Definitions/Magnetism/Néel Temperature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spin Angular Momentum"
+              "title": "Néel Temperature"
             }
           }
         ]
@@ -179,18 +179,20 @@
   },
   "active": "ebd20ad6f8d7690e",
   "lastOpenFiles": [
+    "Definitions/Magnetism/Ferromagnetism.md",
+    "Definitions/Magnetism/Néel Temperature.md",
+    "Definitions/Magnetism/Curie Temperature.md",
+    "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
     "Definitions/Quantum Mechanics/Commutators.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Orbital Angular Momentum.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Commutators and Quantum Numbers.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Landé G-Factor.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Raising and Lowering Operators.md",
-    "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Coupled Spins.md",
     "Untitled.md",
     "Mathematics/commute.md",
     "Definitions/Terminlogogy/Isotropic.md",
     "Definitions/Terminlogogy",
-    "Definitions/Magnetism/Ferromagnetism.md",
     "Mathematics/Operators.md",
     "Mathematics/Separation of Variables.md",
     "Mathematics/Coordinate Systems.md",
@@ -210,10 +212,8 @@
     "Definitions/Quantum Mechanics/Pauli Exclusion Principle.md",
     "Definitions/Quantum Mechanics/Mathematical Tools",
     "templates/mathematics.md",
-    "Definitions/Particle Physics/Bosons.md",
     "Definitions/Quantum Mechanics/Angular Momentum",
     "Mathematics/Quantum Mechanics",
-    "Mathematics",
-    "Definitions/Particle Physics/Fermions.md"
+    "Mathematics"
   ]
 }
