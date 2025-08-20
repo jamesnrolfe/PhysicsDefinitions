@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Magnetism/Curie Temperature.md",
+                "file": "Definitions/Magnetism/Néel Temperature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curie Temperature"
+              "title": "Néel Temperature"
             }
           }
         ]
@@ -177,11 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebd20ad6f8d7690e",
+  "active": "aca49374f9e20891",
   "lastOpenFiles": [
+    "assets/neel_temp.png",
+    "Definitions/Magnetism/Curie Temperature.md",
+    "assets",
+    "assets/curie_temp.png",
     "Definitions/Magnetism/Néel Temperature.md",
     "Definitions/Magnetism/Ferromagnetism.md",
-    "Definitions/Magnetism/Curie Temperature.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Spin Angular Momentum.md",
     "Definitions/Quantum Mechanics/Commutators.md",
     "Definitions/Quantum Mechanics/Angular Momentum/Orbital Angular Momentum.md",
@@ -211,9 +214,7 @@
     "Equations",
     "Definitions/Quantum Mechanics/Pauli Exclusion Principle.md",
     "Definitions/Quantum Mechanics/Mathematical Tools",
-    "templates/mathematics.md",
     "Definitions/Quantum Mechanics/Angular Momentum",
-    "Mathematics/Quantum Mechanics",
-    "Mathematics"
+    "Mathematics/Quantum Mechanics"
   ]
 }
