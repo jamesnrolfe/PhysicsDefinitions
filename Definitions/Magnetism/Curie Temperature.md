@@ -7,6 +7,7 @@ The **Curie Temperature** is the temperature above which a [[Ferromagnetism|ferr
 
 The Curie temperature is usually denoted $T_{C}$.
 
-![[curie_temp.png]]
+![[_curie_temp.png]]
+*Magnetisation of an ferromagnet as a function of temperature. Note the drop to zero at the Curie Temperature $T_{C}$.
 
 > See [[Néel Temperature]] for the case with [[Anti-ferromagnetism|anti-ferromagnets]].

@@ -7,6 +7,7 @@ The **Néel Temperature** is the temperature above which a [[Anti-ferromagnetism
 
 The Néel temperature is usually denoted $T_{N}$.
 
-![[neel_temp.png]]
+![[_neel_temp.png]]
+*Magnetisation of an anti-ferromagnet as a function of temperature. Note the drop to zero at the Néel temperature $T_{N}$. Compared to the graph of the [[Curie Temperature]] for ferromagnets, there is no overall net magnetisation, as we would expect for ferromagnets.*
 
 > See [[Curie Temperature]] for the case with [[Ferromagnetism|ferromagnets]].
