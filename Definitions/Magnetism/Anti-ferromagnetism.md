@@ -4,6 +4,7 @@ aliases:
   - anti-ferromagnetism
   - anti-ferromagnet
   - anti-ferromagnets
+  - anti-ferromagnetic
 ---
 An anti-ferromagnet is a type of magnetic material where the [[Magnetic Moment|magnetic moments]] of atoms or ions are aligned in **opposite** directions (as opposed to [[Ferromagnetism|ferromagnetism]], in which the align in the same direction), effectively *canceling out the net magnetic field*. 
 
