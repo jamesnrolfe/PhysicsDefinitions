@@ -1,9 +1,11 @@
 {
-  "cssTheme": "",
-  "textFontFamily": "CMU Concrete,CMU Typewriter Text Variable Width",
+  "cssTheme": "AnuPpuccin",
+  "textFontFamily": "JetBrainsMono Nerd Font",
   "showViewHeader": false,
   "showRibbon": true,
   "translucency": false,
-  "theme": "system",
-  "accentColor": "#3b545e"
+  "theme": "moonstone",
+  "accentColor": "#3b545e",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font"
 }
