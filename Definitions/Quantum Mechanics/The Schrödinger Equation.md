@@ -92,7 +92,7 @@ where we have separated out the components into the derivatives they depend on, 
 $$
 -\frac{\hbar^2}{2m}\left[ \frac{1}{R(r)r^2} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{1}{Y(\theta, \phi)r^2\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{1}{Y(\theta, \phi)r^2 \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right].
 $$
-The next step is to multiple by $r^2$, and we get
+The next step is to multiply by $r^2$, and we get
 $$
 -\frac{\hbar^2}{2m}\left[ \frac{1}{R(r)} \frac{d}{dr}\left( r^2 \frac{dR(r)}{dr} \right) + \frac{1}{Y(\theta, \phi)\sin \theta} \frac{\partial}{\partial \theta}\left(\sin \theta \frac{\partial Y(\theta,\phi)}{\partial \theta}\right) + \frac{1}{Y(\theta, \phi) \sin ^2\theta} \frac{\partial^2 Y(\theta, \phi)}{\partial \phi^2}\right].
 $$

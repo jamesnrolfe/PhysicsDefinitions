@@ -107,7 +107,7 @@ $$
 > $$\hat{S}^z\ket{+} = \ket{+} ; \quad \hat{S}^z \ket{0} = 0; \quad \hat{S}^z \ket{-} = -\ket{-} $$
 
 >[!info] Useful result
->A useful result to note, especially with [[Coupled Spins|coupled spins]], is
+>A useful result to note, especially with [[2.2 Coupled Spins|coupled spins]], is
 >$$\vec{S_{1}} \cdot \vec{S}_{2} = \hat{S}_{1}^z\hat{S}_{2}^z + \frac{1}{2}\hat{S}^+_{1}\hat{S}^-_{2}+\frac{1}{2}\hat{S}_{1}^-\hat{S}_{2}^+$$
 >This can be seen from 
 >$$\hat{S}_{1}^+\hat{S}_{2}^- = (\hat{S}_{1}^x+i\hat{S}_{1}^y)(\hat{S}_{2}^x-i\hat{S}_{2}^y) = \hat{S}_{1}^x\hat{S}_{2}^x+\hat{S}_{1}^y\hat{S}_{2}^y + i(\hat{S}_{1}^y\hat{S}_{2}^x-\hat{S}_{1}^x\hat{S}_{2}^y)$$
@@ -117,6 +117,8 @@ $$
 >$$\hat{S}_{1}^+\hat{S}^-_{2}+\hat{S}_{1}^-\hat{S}_{2}^+ = 2(\hat{S}_{1}^x\hat{S}_{2}^x+\hat{S}_{1}^y\hat{S}_{2}^y).$$
 >Then using the definitions of $\vec{S}_{1}$ and $\vec{S}_{2}$, we can say that 
 >$$\vec{S}_{1} \cdot \vec{S}_{2} = \hat{S}_{1}^x\hat{S}_{2}^x + \hat{S}_{1}^y \hat{S}_{2}^y + \hat{S}_{1}^z \hat{S}_{2}^z = \hat{S}_{1}^z\hat{S}_{2}^z + \frac{1}{2}\hat{S}^+_{1}\hat{S}^-_{2}+\frac{1}{2}\hat{S}_{1}^-\hat{S}_{2}^+$$
+
+^8fcffe
 
 ^39ec1f
 ### Commutation Relations
