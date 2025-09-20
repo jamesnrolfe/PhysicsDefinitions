@@ -1,5 +1,5 @@
 ---
-type: maths
+type: definition
 aliases:
   - spherical coordinates
   - Cartesian coordinates

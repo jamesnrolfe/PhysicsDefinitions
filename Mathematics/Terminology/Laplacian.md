@@ -1,5 +1,5 @@
 ---
-type: maths
+type: definition
 aliases:
 ---
 The **Laplacian** $\nabla^2$ is defined as 
